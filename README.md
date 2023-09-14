@@ -1,3 +1,2 @@
 # Flight
-This is simple project made with HTML and CSS. 
-In this project, there is a runway made using various commands of CSS which then becomes slowly disappears when mouse-pointer(left or right) is clicked.
+This project is a creative and visually engaging web experiment crafted solely with HTML and CSS. It showcases a dynamic runway created using various CSS commands. The runway, initially fully visible, gradually vanishes as the user interacts with it using the mouse-pointer, whether it's clicked on the left or right side. This intriguing effect adds an element of interactivity and visual intrigue to the project, making it a fun and memorable web experience.
